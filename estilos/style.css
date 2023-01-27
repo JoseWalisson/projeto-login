@@ -121,6 +121,10 @@ form input::placeholder {
     padding-left: 5px;
 }
 
+form input {
+    padding-left: 5px;
+}
+
 form > input[type=submit]:hover {
     background-color: #367976;
 }
